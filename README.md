@@ -10,6 +10,9 @@ By using this software, you agree that:
 *   You are solely responsible for complying with the Terms of Service of any third-party software you interact with.
 *   This tool is provided "as-is" without any warranties.
 
+## Interface Preview
+![Alt text](https://github.com/NullKeeper-dev/Null-Roblox-Executor/blob/7c444232a07bbd1c5099a0cab41104e6e11dacbb/GUI.png)
+
 ## Description
 Null Roblox Executor is a sophisticated WPF-based application designed to provide a robust environment for executing Lua scripts. It features a modern user interface, integrated script editor with syntax highlighting, and seamless process integration for advanced automation tasks.
 
