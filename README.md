@@ -32,7 +32,7 @@ Null Roblox Executor is a sophisticated WPF-based application designed to provid
 
 ## Installation
 1.  Ensure you have the [.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) installed.
-2.  Download the latest release from the [Releases](https://github.com/NullKeeper-dev/Null-Executor-v2.1.4/releases) page.
+2.  Download the latest release from the [Releases](https://github.com/NullKeeper-dev/Null-Roblox-Executor/releases) page.
 3.  Extract the contents to a folder of your choice.
 4.  Run `Null Launcher.exe`.
 
