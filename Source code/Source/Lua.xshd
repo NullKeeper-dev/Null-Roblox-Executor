@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<SyntaxDefinition name="Lua" xmlns="http://icsharpcode.net/sharpdevelop/avalonedit/syntaxdefinition/2008">
+	<Color name="Comment" foreground="#6A9955" />
+	<Color name="String" foreground="#CE9178" />
+	<Color name="Keywords" foreground="#569CD6" fontWeight="bold" />
+	<Color name="Builtin" foreground="#4EC9B0" fontWeight="bold" />
+	<Color name="Numbers" foreground="#B5CEA8" />
+	<Color name="Operators" foreground="#D4D4D4" />
+	<Color name="Method" foreground="#DCDCAA" />
+	
+	<RuleSet>
+		<Span color="Comment" multiline="true">
+			<Begin>--\[\[</Begin>
+			<End>\]\]</End>
+		</Span>
+		<Span color="Comment">
+			<Begin>--</Begin>
+		</Span>
+		
+		<Span color="String">
+			<Begin>"</Begin>
+			<End>"</End>
+			<RuleSet>
+				<Span begin="\\" end="." />
+			</RuleSet>
+		</Span>
+		<Span color="String">
+			<Begin>'</Begin>
+			<End>'</End>
+			<RuleSet>
+				<Span begin="\\" end="." />
+			</RuleSet>
+		</Span>
+		
+		<Keywords color="Keywords">
+			<Word>and</Word>
+			<Word>break</Word>
+			<Word>do</Word>
+			<Word>else</Word>
+			<Word>elseif</Word>
+			<Word>end</Word>
+			<Word>false</Word>
+			<Word>for</Word>
+			<Word>function</Word>
+			<Word>if</Word>
+			<Word>in</Word>
+			<Word>local</Word>
+			<Word>nil</Word>
+			<Word>not</Word>
+			<Word>or</Word>
+			<Word>repeat</Word>
+			<Word>return</Word>
+			<Word>then</Word>
+			<Word>true</Word>
+			<Word>until</Word>
+			<Word>while</Word>
+		</Keywords>
+		
+		<Keywords color="Builtin">
+			<Word>print</Word>
+			<Word>warn</Word>
+			<Word>error</Word>
+			<Word>assert</Word>
+			<Word>collectgarbage</Word>
+			<Word>dofile</Word>
+			<Word>getfenv</Word>
+			<Word>getmetatable</Word>
+			<Word>ipairs</Word>
+			<Word>load</Word>
+			<Word>loadfile</Word>
+			<Word>loadstring</Word>
+			<Word>next</Word>
+			<Word>pairs</Word>
+			<Word>pcall</Word>
+			<Word>rawequal</Word>
+			<Word>rawget</Word>
+			<Word>rawset</Word>
+			<Word>select</Word>
+			<Word>setfenv</Word>
+			<Word>setmetatable</Word>
+			<Word>tonumber</Word>
+			<Word>tostring</Word>
+			<Word>type</Word>
+			<Word>unpack</Word>
+			<Word>xpcall</Word>
+			<Word>wait</Word>
+			<Word>delay</Word>
+			<Word>spawn</Word>
+			<Word>tick</Word>
+			<Word>game</Word>
+			<Word>workspace</Word>
+			<Word>script</Word>
+			<Word>Instance</Word>
+			<Word>Vector3</Word>
+			<Word>CFrame</Word>
+			<Word>Color3</Word>
+			<Word>Enum</Word>
+		</Keywords>
+
+		<Rule color="Method">
+			(?&lt;=\.)[a-zA-Z_][a-zA-Z0-9_]*
+		</Rule>
+
+		<Rule color="Operators">
+			[+\-*/%^#=~&lt;&gt;]
+		</Rule>
+		
+		<Rule color="Numbers">
+			\b0[xX][0-9a-fA-F]+|(\b\d+(\.[0-9]+)?|\.[0-9]+)([eE][+-]?[0-9]+)?
+		</Rule>
+	</RuleSet>
+</SyntaxDefinition>

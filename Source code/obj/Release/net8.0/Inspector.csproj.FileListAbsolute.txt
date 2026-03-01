@@ -1,0 +1,4 @@
+C:\Users\oNullr\Downloads\Compressed\Null Executor\obj\Release\net8.0\Inspector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oNullr\Downloads\Compressed\Null Executor\obj\Release\net8.0\Inspector.AssemblyInfoInputs.cache
+C:\Users\oNullr\Downloads\Compressed\Null Executor\obj\Release\net8.0\Inspector.AssemblyInfo.cs
+C:\Users\oNullr\Downloads\Compressed\Null Executor\obj\Release\net8.0\Inspector.csproj.CoreCompileInputs.cache

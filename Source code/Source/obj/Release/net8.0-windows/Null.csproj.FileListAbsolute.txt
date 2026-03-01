@@ -1,0 +1,2 @@
+C:\Users\oNullr\Downloads\Compressed\Null Executor\Source\obj\Release\net8.0-windows\Null.csproj.AssemblyReference.cache
+C:\Users\oNullr\Downloads\Compressed\Null Executor\Source\obj\Release\net8.0-windows\Null Launcher_MarkupCompile.cache

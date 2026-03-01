@@ -1,0 +1,14 @@
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\bin\Debug\net8.0\Inspector.exe
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\bin\Debug\net8.0\Inspector.deps.json
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\bin\Debug\net8.0\Inspector.runtimeconfig.json
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\bin\Debug\net8.0\Inspector.dll
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\bin\Debug\net8.0\Inspector.pdb
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\Inspector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\Inspector.AssemblyInfoInputs.cache
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\Inspector.AssemblyInfo.cs
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\Inspector.csproj.CoreCompileInputs.cache
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\Inspector.dll
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\refint\Inspector.dll
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\Inspector.pdb
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\Inspector.genruntimeconfig.cache
+C:\Users\oNullr\Downloads\Compressed\Null Executor\InspectorDir\obj\Debug\net8.0\ref\Inspector.dll
