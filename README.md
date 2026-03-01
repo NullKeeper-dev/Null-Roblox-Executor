@@ -9,6 +9,7 @@ By using this software, you agree that:
 *   The author is **not responsible** for any misuse, account bans, or damages resulting from the use of this software.
 *   You are solely responsible for complying with the Terms of Service of any third-party software you interact with.
 *   This tool is provided "as-is" without any warranties.
+*   [VirusTotal Scan Result](https://www.virustotal.com/gui/file/76d5da2ca6ad860f22785f91dee06eb3b56ebadf7ecadaa6db62589ac9613816?nocache=1)
 
 ## Interface Preview
 ![Alt text](https://github.com/NullKeeper-dev/Null-Roblox-Executor/blob/7c444232a07bbd1c5099a0cab41104e6e11dacbb/GUI.png)
